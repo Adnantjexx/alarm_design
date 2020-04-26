@@ -1,6 +1,10 @@
 # alarmdesign
+- [Watch video on my Youtube Channel](https://www.youtube.com/watch?v=fIFDQWjeGPA)
 
-A new Flutter application.
+![](https://i.postimg.cc/Kct2x80g/1-2.png)
+![](https://i.postimg.cc/HxyCJYHR/5-1.png)
+![](https://i.postimg.cc/cCGGwpLH/5-2.png)
+![](https://i.postimg.cc/qqcVL1NG/5.png)
 
 ## Getting Started
 
