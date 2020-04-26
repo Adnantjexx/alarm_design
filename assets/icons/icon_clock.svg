@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="47.354" height="40.743" viewBox="0 0 47.354 40.743">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#30dde5"/>
+      <stop offset="1" stop-color="#2368ff"/>
+    </linearGradient>
+    <filter id="Line_3" x="13.409" y="8.127" width="28.818" height="28.818" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.439"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_7" data-name="Group 7" transform="translate(-127.257 -45.257)">
+    <line id="Line_1" data-name="Line 1" x1="5.826" y2="5.826" transform="translate(131.5 49.5)" fill="none" stroke="#2fe8f1" stroke-linecap="round" stroke-width="6"/>
+    <line id="Line_2" data-name="Line 2" x2="5.826" y2="5.826" transform="translate(164.543 49.5)" fill="none" stroke="#2fe8f1" stroke-linecap="round" stroke-width="6"/>
+    <circle id="Ellipse_1" data-name="Ellipse 1" cx="18" cy="18" r="18" transform="translate(133 50)" fill="url(#linear-gradient)"/>
+    <g transform="matrix(1, 0, 0, 1, 127.26, 45.26)" filter="url(#Line_3)">
+      <line id="Line_3-2" data-name="Line 3" y1="7.283" x2="7.283" transform="translate(24.18 15.89)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="2.5"/>
+    </g>
+  </g>
+</svg>
